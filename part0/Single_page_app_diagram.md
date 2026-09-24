@@ -1,3 +1,4 @@
+```mermaid
 sequenceDiagram
     participant browser
     participant server
@@ -8,3 +9,4 @@ sequenceDiagram
     deactivate server
 
     Note left of browser: only one HTML page is fetched from the server
+```
