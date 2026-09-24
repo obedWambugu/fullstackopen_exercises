@@ -1,3 +1,4 @@
+```mermaid
 sequenceDiagram
     participant browser
     participant server
@@ -10,3 +11,4 @@ sequenceDiagram
     Note left of server:  the server does not ask for a redirect
 
     Note right of browser: the browser stays on the same page
+```
